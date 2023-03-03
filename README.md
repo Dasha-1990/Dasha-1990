@@ -12,3 +12,7 @@
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=Dasha-1990&style=flat-square&color=blue" alt=""/> 
   </div>
+
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/5r5J4JD9miis/giphy.gif)" width="600" height="300"/>
+</div>
