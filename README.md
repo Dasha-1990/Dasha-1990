@@ -36,3 +36,7 @@ I am a QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <img src="https://github.com/Dasha-1990/HW/blob/main/postman.svg" width="40" height="40"/>;
  
 </div>
+
+---
+
+### :fire: My Stats : [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dasha-1990&theme=dark&background=000000)](https://git.io/streak-stats)
