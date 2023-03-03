@@ -18,4 +18,4 @@
 </div>
 
 ### :smile_cat: About Me :
-I am a QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am a QA engineer <img src="https://media.giphy.com/media/EOuaJZlRtY3htS2Fas/giphy.gif" width="30"> from Belarus.
