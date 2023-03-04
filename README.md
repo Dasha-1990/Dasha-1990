@@ -43,9 +43,6 @@ I am a QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dasha-1990&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
+
